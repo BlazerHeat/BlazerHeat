@@ -6,4 +6,4 @@
 
 - 💬 Contact me: BlazerHeat#5947
 
-![Cating's github stats](https://github-readme-stats.vercel.app/api?username=BlazerHeat&hide=[])
+![BlazerHeat's github stats](https://github-readme-stats.vercel.app/api?username=BlazerHeat&hide=[])
