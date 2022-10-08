@@ -19,6 +19,7 @@
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" />
 </div>
 
 ### Frontend
@@ -51,16 +52,19 @@
 ### Tools
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" />
+	<img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="InteliJ" title="InteliJ" />
+	<img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png" alt="WebStorm" title="WebStorm" />
+	<img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" alt="PyCharm" title="PyCharm" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" />
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Ardiuno"/>
 </div>
 
 ### Others
 <div>
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" />
+	<img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 	<img height="40" src="https://www.pngitem.com/pimgs/m/59-590506_apple-logo-png-apple-white-icon-png-transparent.png" alt="macOS" title="macOS" />
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
 </div>
