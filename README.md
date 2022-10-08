@@ -40,7 +40,7 @@
     <img height="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg" alt="Nest" title="Nest" />
 </div>
 
-### Databses
+### Databases
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL" title="PostgreSQL" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
