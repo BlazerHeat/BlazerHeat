@@ -3,7 +3,7 @@
 
 
 
-# Hey There! 👋 <br/>My name is Vatsal Ghoghari
+# Hey There! 👋 <br/>Myself Vatsal Ghoghari
 ### I deal with Full Stack Development
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlazerHeat" alt="BlazerHeat" /></p>
 
