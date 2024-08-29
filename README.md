@@ -7,7 +7,7 @@
 ### I deal with Full Stack Development
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlazerHeat" alt="BlazerHeat" /></p>
 
-## I have great experience in
+## I've Experienced
 
 ### Programming languages
 <div>
