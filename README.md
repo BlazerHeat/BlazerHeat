@@ -21,7 +21,8 @@ I'm a Full Stack Developer and Master of Applied Computer Science student at Dal
 ### Frontend
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
-	<img height="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Next.js / Node ecosystem" title="Next.js" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS3" title="CSS3" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
@@ -34,6 +35,7 @@ I'm a Full Stack Developer and Master of Applied Computer Science student at Dal
 	<img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" title="Express.js" />
 	<img height="30" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot" />
 	<img height="30" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" title="Socket.IO" />
+	<img height="30" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" />
 	<img height="30" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" title="REST APIs" />
 </div>
 
@@ -52,6 +54,7 @@ I'm a Full Stack Developer and Master of Applied Computer Science student at Dal
 	<img height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" />
 	<img height="30" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform" />
 	<img height="30" src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" title="CI/CD" />
+	<img height="30" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" />
 </div>
 
 ### Databases
@@ -61,6 +64,7 @@ I'm a Full Stack Developer and Master of Applied Computer Science student at Dal
 	<img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" title="Redis" />
 	<img height="30" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" title="Prisma ORM" />
+	<img height="30" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" title="Firebase" />
 </div>
 
 ### Tools & Hardware
@@ -71,7 +75,8 @@ I'm a Full Stack Developer and Master of Applied Computer Science student at Dal
 	<img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png" alt="WebStorm" title="WebStorm" />
 	<img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" alt="PyCharm" title="PyCharm" />
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
-	<img src="https://www.vectorlogo.zone/logos/arduino-1.svg" alt="Arduino" width="40" height="40" title="Arduino / ESP32" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
+	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino / ESP32" />
 	<img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" />
 </div>
 
